@@ -1,0 +1,12 @@
+{
+  "ProdKey": "MILS1257",
+  "Description": "quae ab illo inventore",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "805f916f-5be3-4255-b3e7-135c63b047c6",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 08:20:40.602156",
+  "Price": "72.9900",
+  "Quantity": 3,
+  "PriceType": "Normalpris"
+}

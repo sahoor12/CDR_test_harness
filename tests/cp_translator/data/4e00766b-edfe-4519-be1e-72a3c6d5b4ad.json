@@ -1,0 +1,13 @@
+{
+  "ProdKey": "LLR44551",
+  "Description": "qui dolorem ipsum",
+  "StoreCode": "303",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "4e00766b-edfe-4519-be1e-72a3c6d5b4ad",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 18:35:40.602156",
+  "Price": "7.0000",
+  "Quantity": 6,
+  "PriceType": "Normalpris"
+}

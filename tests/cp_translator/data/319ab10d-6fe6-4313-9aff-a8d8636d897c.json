@@ -1,0 +1,12 @@
+{
+  "ProdKey": "MTN8220",
+  "Description": "totam rem aperiam eaque ipsa",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "319ab10d-6fe6-4313-9aff-a8d8636d897c",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 18:50:40.602156",
+  "Price": "64.9900",
+  "Quantity": 2,
+  "PriceType": "Normalpris"
+}

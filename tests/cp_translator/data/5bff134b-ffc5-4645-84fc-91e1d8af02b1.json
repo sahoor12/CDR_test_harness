@@ -1,0 +1,12 @@
+{
+  "ProdKey": "F40579",
+  "Description": "qui dolorem ipsum",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "5bff134b-ffc5-4645-84fc-91e1d8af02b1",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 04:50:40.602156",
+  "Price": "40.0000",
+  "Quantity": 1,
+  "PriceType": "Normalpris"
+}

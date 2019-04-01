@@ -1,0 +1,12 @@
+{
+  "ProdKey": "OTC7238",
+  "Description": "totam rem aperiam eaque ipsa",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "5f466323-8ab0-4c80-9efb-f12b4305da55",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 16:20:40.602156",
+  "Price": "30.0000",
+  "Quantity": 7,
+  "PriceType": "Normalpris"
+}

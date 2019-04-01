@@ -1,0 +1,13 @@
+{
+  "ProdKey": "FJCKIT4",
+  "Description": "Nemo enim ipsam voluptatem",
+  "StoreCode": "101",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "7fb9462b-11fb-4cb0-9193-c4dd749473b6",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 12:20:40.602156",
+  "Price": "183.7300",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

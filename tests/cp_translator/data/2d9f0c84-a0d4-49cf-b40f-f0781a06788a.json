@@ -1,0 +1,12 @@
+{
+  "ProdKey": "IPA7899",
+  "Description": "totam rem aperiam eaque ipsa",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "2d9f0c84-a0d4-49cf-b40f-f0781a06788a",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 09:35:40.602156",
+  "Price": "62.9900",
+  "Quantity": 3,
+  "PriceType": "Normalpris"
+}

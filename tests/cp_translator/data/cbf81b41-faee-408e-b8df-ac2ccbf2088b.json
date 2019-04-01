@@ -1,0 +1,13 @@
+{
+  "ProdKey": "EPI3410",
+  "Description": "Nemo enim ipsam voluptatem",
+  "StoreCode": "309",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "cbf81b41-faee-408e-b8df-ac2ccbf2088b",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-19 02:05:40.602156",
+  "Price": "20.9800",
+  "Quantity": 5,
+  "PriceType": "Normalpris"
+}

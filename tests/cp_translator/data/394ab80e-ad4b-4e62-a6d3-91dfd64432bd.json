@@ -1,0 +1,12 @@
+{
+  "ProdKey": "114-409",
+  "Description": "totam rem aperiam eaque ipsa",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "394ab80e-ad4b-4e62-a6d3-91dfd64432bd",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 07:35:40.602156",
+  "Price": "3.9900",
+  "Quantity": 5,
+  "PriceType": "Normalpris"
+}

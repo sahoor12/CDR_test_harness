@@ -1,0 +1,12 @@
+{
+  "ProdKey": "LIS13000",
+  "Description": "vitae dicta sunt explicabo",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "7d9c2b50-8fb6-4e89-8ec0-de5d9f307a01",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 21:20:40.602156",
+  "Price": "114.9900",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

@@ -1,0 +1,12 @@
+{
+  "ProdKey": "SOLJNC300XL",
+  "Description": "Sed ut perspiciatis",
+  "Market": "West",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "485e1de6-8989-4466-a948-4b742d03493d",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 19:50:40.602156",
+  "Price": "59.9900",
+  "Quantity": 5,
+  "PriceType": "Normalpris"
+}

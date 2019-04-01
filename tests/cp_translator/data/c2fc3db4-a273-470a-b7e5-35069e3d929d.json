@@ -1,0 +1,12 @@
+{
+  "ProdKey": "GB0409",
+  "Description": "totam rem aperiam eaque ipsa",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "c2fc3db4-a273-470a-b7e5-35069e3d929d",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 03:50:40.602156",
+  "Price": "15.9900",
+  "Quantity": 2,
+  "PriceType": "Normalpris"
+}

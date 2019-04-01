@@ -1,0 +1,12 @@
+{
+  "ProdKey": "185-D550PK",
+  "Description": "Sed ut perspiciatis",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "18f40605-75f6-4fab-be31-8587d961453a",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 13:35:40.602156",
+  "Price": "69.9900",
+  "Quantity": 3,
+  "PriceType": "Normalpris"
+}

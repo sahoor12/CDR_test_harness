@@ -1,0 +1,12 @@
+{
+  "ProdKey": "T43951",
+  "Description": "quae ab illo inventore",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "fd0a74de-2528-4207-99dd-cca762e78431",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 04:35:40.602156",
+  "Price": "12.9900",
+  "Quantity": 8,
+  "PriceType": "Normalpris"
+}

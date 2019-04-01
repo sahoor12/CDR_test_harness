@@ -1,0 +1,12 @@
+{
+  "ProdKey": "MMM723-85",
+  "Description": "Nemo enim ipsam voluptatem",
+  "Market": "West",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "3d1bf65b-656a-4857-90a9-99173f9d662b",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 08:35:40.602156",
+  "Price": "19.9900",
+  "Quantity": 10,
+  "PriceType": "Normalpris"
+}

@@ -1,0 +1,13 @@
+{
+  "ProdKey": "110-GA14",
+  "Description": "qui dolorem ipsum",
+  "StoreCode": "Lenovo IdeaPad 81A40025US (bestbuyMarketplace)",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "502f0f0b-a3b3-4378-b8aa-e4d5cfb39715",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-20 03:05:40.602156",
+  "Price": "120.0000",
+  "Quantity": 10,
+  "PriceType": "Normalpris"
+}

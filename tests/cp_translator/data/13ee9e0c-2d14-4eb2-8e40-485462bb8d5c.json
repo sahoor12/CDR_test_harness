@@ -1,0 +1,13 @@
+{
+  "ProdKey": "615-M35-15",
+  "Description": "qui dolorem ipsum",
+  "StoreCode": "bettymills.com",
+  "Market": "West",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "13ee9e0c-2d14-4eb2-8e40-485462bb8d5c",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-19 10:50:40.602156",
+  "Price": "66.4800",
+  "Quantity": 8,
+  "PriceType": "Normalpris"
+}

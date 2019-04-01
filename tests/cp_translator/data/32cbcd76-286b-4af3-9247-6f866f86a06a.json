@@ -1,0 +1,12 @@
+{
+  "ProdKey": "HAN3018002B",
+  "Description": "qui dolorem ipsum",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "32cbcd76-286b-4af3-9247-6f866f86a06a",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 08:50:40.602156",
+  "Price": "89.9900",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

@@ -1,0 +1,97 @@
+[[
+  "split",
+  {
+    "key": "LinkedRemaAssortments",
+    "core_document_attributes": [["CalculatedRemaPrice", "CurrentPrice"], "RootSv"]
+  }
+],
+  [
+    "map_key",
+    {
+      "key": "CompetitorStoreId",
+      "result_key": "StoreCode"
+    }
+  ],
+  [
+    "map_key",
+    {
+    "key": "CompetitorStoreName",
+    "result_key": "CompetitorName"
+    }
+  ],
+  [
+    "map_key",
+    {
+      "key": "ObservationDateTime",
+      "result_key": "EffectiveDate"
+    }
+  ],
+  [
+    "map_key",
+    {
+      "key": "ItemName",
+      "result_key": "Description"
+    }
+  ],
+  [
+    "map_key",
+    {
+      "key": "RootSv",
+      "result_key": "ProdKey"
+    }
+  ],
+  [
+    "map_x_else_y",
+    {
+      "x": "CalculatedRemaPrice",
+      "y": "CurrentPrice",
+      "result_key": "Price"
+    }
+  ],
+  [
+    "map_key",
+    {
+      "key": "Quantity",
+      "result_key": "PackSize"
+    }
+  ],
+  [
+    "map_value",
+    {
+      "key": "PriceTypeCode",
+      "map_config": {
+        "Butikktilbud": "Promotion",
+        "Kampanjeavis": "Regular",
+        "Nedsatt pris pga. Dato": "Clearance",
+        "Normalpris": "Regular",
+        "Papirlabel": "Regular",
+        "Pris fra kvittering": "Regular",
+        "Tilbudspris": "Regular",
+        "Utmeldt vare": "Regular",
+        "Vare ikke i butikk": "Regular"
+      }
+    }
+  ],
+  [
+    "map_key",
+    {
+      "key": "PriceTypeCode",
+      "result_key": "PriceType"
+    }
+  ],
+  [
+    "map_key",
+    {
+      "key": "GTIN",
+      "result_key": "CompetitorProdKey"
+    }
+  ],
+  [
+    "concatenate",
+    {
+      "input_keys": ["StoreChainName", "CompetitorZone"],
+      "separator": "-",
+      "result_key": "CompetitorStoreName"
+    }
+  ]
+]

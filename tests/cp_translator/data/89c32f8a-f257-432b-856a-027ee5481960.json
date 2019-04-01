@@ -1,0 +1,13 @@
+{
+  "ProdKey": "T51252",
+  "Description": "Nemo enim ipsam voluptatem",
+  "StoreCode": "bestbuy.com",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "89c32f8a-f257-432b-856a-027ee5481960",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-19 17:05:40.602156",
+  "Price": "489.9800",
+  "Quantity": 9,
+  "PriceType": "Normalpris"
+}

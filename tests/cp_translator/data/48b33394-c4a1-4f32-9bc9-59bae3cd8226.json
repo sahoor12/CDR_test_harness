@@ -1,0 +1,12 @@
+{
+  "ProdKey": "WLMW1368",
+  "Description": "sit voluptatem accusantium",
+  "Market": "West",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "48b33394-c4a1-4f32-9bc9-59bae3cd8226",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 15:50:40.602156",
+  "Price": "49.9900",
+  "Quantity": 6,
+  "PriceType": "Normalpris"
+}

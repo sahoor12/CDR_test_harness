@@ -1,0 +1,13 @@
+{
+  "ProdKey": "SUN8509",
+  "Description": "Sed ut perspiciatis",
+  "StoreCode": "307",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "26d7b673-9fd2-48ba-b36c-8ac7a85384e1",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 23:35:40.602156",
+  "Price": "15.0000",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

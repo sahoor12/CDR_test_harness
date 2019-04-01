@@ -1,0 +1,12 @@
+{
+  "ProdKey": "MASMT11",
+  "Description": "quae ab illo inventore",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "3425d590-6196-4244-973d-01e460f861a3",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 02:20:40.602156",
+  "Price": "11.9900",
+  "Quantity": 5,
+  "PriceType": "Normalpris"
+}

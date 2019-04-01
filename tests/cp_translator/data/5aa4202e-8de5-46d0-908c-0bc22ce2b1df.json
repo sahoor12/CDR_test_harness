@@ -1,0 +1,12 @@
+{
+  "ProdKey": "497-ZWEP441418MCB",
+  "Description": "qui dolorem ipsum",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "5aa4202e-8de5-46d0-908c-0bc22ce2b1df",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 23:35:40.602156",
+  "Price": "9.2900",
+  "Quantity": 3,
+  "PriceType": "Normalpris"
+}

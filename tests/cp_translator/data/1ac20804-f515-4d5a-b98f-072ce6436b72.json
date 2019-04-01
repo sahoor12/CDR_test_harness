@@ -1,0 +1,13 @@
+{
+  "ProdKey": "585-47012",
+  "Description": "qui dolorem ipsum",
+  "StoreCode": "304",
+  "Market": "West",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "1ac20804-f515-4d5a-b98f-072ce6436b72",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 19:50:40.602156",
+  "Price": "157.4800",
+  "Quantity": 7,
+  "PriceType": "Normalpris"
+}

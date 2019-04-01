@@ -1,0 +1,12 @@
+{
+  "ProdKey": "467-HG-201A",
+  "Description": "Sed ut perspiciatis",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "67fbb699-fbae-49bd-ab1a-24e567ead905",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 23:50:40.602156",
+  "Price": "199.9900",
+  "Quantity": 9,
+  "PriceType": "Normalpris"
+}

@@ -1,0 +1,12 @@
+{
+  "ProdKey": "T51502",
+  "Description": "Nemo enim ipsam voluptatem",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "f1dc9f0d-9d03-4de6-a784-48c83fb60b5e",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-22 15:05:40.602156",
+  "Price": "44.9900",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

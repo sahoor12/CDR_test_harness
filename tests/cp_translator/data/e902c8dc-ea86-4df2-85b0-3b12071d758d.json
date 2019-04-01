@@ -1,0 +1,13 @@
+{
+  "ProdKey": "31005W",
+  "Description": "totam rem aperiam eaque ipsa",
+  "StoreCode": "300",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "e902c8dc-ea86-4df2-85b0-3b12071d758d",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 14:50:40.602156",
+  "Price": "10.7500",
+  "Quantity": 8,
+  "PriceType": "Normalpris"
+}

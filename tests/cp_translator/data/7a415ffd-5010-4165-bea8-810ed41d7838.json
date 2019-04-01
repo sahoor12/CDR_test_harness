@@ -1,0 +1,13 @@
+{
+  "ProdKey": "HAN3016025",
+  "Description": "doloremque laudantium",
+  "StoreCode": "302",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "7a415ffd-5010-4165-bea8-810ed41d7838",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 17:20:40.602156",
+  "Price": "2.1500",
+  "Quantity": 10,
+  "PriceType": "Normalpris"
+}

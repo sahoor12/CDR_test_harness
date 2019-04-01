@@ -1,0 +1,12 @@
+{
+  "ProdKey": "FLU87-5",
+  "Description": "Nemo enim ipsam voluptatem",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "e860a886-e770-4ec9-a436-3ba4e35fc398",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 09:50:40.602156",
+  "Price": "379.9900",
+  "Quantity": 2,
+  "PriceType": "Normalpris"
+}

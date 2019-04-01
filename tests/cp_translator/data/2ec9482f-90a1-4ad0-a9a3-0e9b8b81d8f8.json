@@ -1,0 +1,12 @@
+{
+  "ProdKey": "887474689142",
+  "Description": "quae ab illo inventore",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "2ec9482f-90a1-4ad0-a9a3-0e9b8b81d8f8",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 12:20:40.602156",
+  "Price": "18.6900",
+  "Quantity": 9,
+  "PriceType": "Normalpris"
+}

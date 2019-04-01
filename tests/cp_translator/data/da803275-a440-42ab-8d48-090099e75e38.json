@@ -1,0 +1,12 @@
+{
+  "ProdKey": "CCS59226",
+  "Description": "Nemo enim ipsam voluptatem",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "da803275-a440-42ab-8d48-090099e75e38",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 11:05:40.602156",
+  "Price": "84.9900",
+  "Quantity": 10,
+  "PriceType": "Normalpris"
+}

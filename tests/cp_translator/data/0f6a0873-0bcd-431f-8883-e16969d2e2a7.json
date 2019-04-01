@@ -1,0 +1,13 @@
+{
+  "ProdKey": "RLF1913PB",
+  "Description": "Nemo enim ipsam voluptatem",
+  "StoreCode": "306",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "0f6a0873-0bcd-431f-8883-e16969d2e2a7",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 22:20:40.602156",
+  "Price": "3.7500",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

@@ -1,0 +1,12 @@
+{
+  "ProdKey": "OTC6604",
+  "Description": "doloremque laudantium",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "e936d95a-0e80-44a1-875a-70b3de6abaf0",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 01:05:40.602156",
+  "Price": "17.9900",
+  "Quantity": 1,
+  "PriceType": "Normalpris"
+}

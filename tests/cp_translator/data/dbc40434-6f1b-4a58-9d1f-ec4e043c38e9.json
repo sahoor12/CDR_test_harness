@@ -1,0 +1,12 @@
+{
+  "ProdKey": "368425",
+  "Description": "quae ab illo inventore",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "dbc40434-6f1b-4a58-9d1f-ec4e043c38e9",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-23 16:05:40.602156",
+  "Price": "6.9900",
+  "Quantity": 6,
+  "PriceType": "Normalpris"
+}

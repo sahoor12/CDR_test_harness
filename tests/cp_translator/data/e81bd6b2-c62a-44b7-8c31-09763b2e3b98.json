@@ -1,0 +1,12 @@
+{
+  "ProdKey": "ROB10469A",
+  "Description": "Sed ut perspiciatis",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "e81bd6b2-c62a-44b7-8c31-09763b2e3b98",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 07:05:40.602156",
+  "Price": "19.9900",
+  "Quantity": 6,
+  "PriceType": "Normalpris"
+}

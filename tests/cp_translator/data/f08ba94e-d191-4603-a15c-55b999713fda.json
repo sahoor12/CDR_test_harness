@@ -1,0 +1,13 @@
+{
+  "ProdKey": "AST78803",
+  "Description": "qui dolorem ipsum",
+  "StoreCode": "305",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "f08ba94e-d191-4603-a15c-55b999713fda",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 21:05:40.602156",
+  "Price": "64.7300",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

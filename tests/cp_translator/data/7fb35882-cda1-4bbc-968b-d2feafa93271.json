@@ -1,0 +1,12 @@
+{
+  "ProdKey": "WHI2UP",
+  "Description": "sit voluptatem accusantium",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "7fb35882-cda1-4bbc-968b-d2feafa93271",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 02:05:40.602156",
+  "Price": "159.9900",
+  "Quantity": 7,
+  "PriceType": "Normalpris"
+}

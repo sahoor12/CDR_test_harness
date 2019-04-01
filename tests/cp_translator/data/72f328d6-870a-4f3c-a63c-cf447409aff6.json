@@ -1,0 +1,13 @@
+{
+  "ProdKey": "LIS12230",
+  "Description": "quae ab illo inventore",
+  "StoreCode": "AVG1",
+  "Market": "North",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "72f328d6-870a-4f3c-a63c-cf447409aff6",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 09:50:40.602156",
+  "Price": "10.4800",
+  "Quantity": 5,
+  "PriceType": "Normalpris"
+}

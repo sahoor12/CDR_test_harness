@@ -1,0 +1,13 @@
+{
+  "ProdKey": "OTC9852",
+  "Description": "doloremque laudantium",
+  "StoreCode": "100",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "09d6238e-9fa6-4d22-93db-5a09e99e53c7",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-18 11:05:40.602156",
+  "Price": "90.0000",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

@@ -1,0 +1,13 @@
+{
+  "ProdKey": "J64611",
+  "Description": "Nemo enim ipsam voluptatem",
+  "StoreCode": "staples.com",
+  "Market": "South",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "1fbacce7-e6ba-4bea-94fb-b87dd6c5b7fc",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-19 15:50:40.602156",
+  "Price": "27.9800",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

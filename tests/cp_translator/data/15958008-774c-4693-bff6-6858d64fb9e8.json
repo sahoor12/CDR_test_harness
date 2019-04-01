@@ -1,0 +1,12 @@
+{
+  "ProdKey": "BC6649",
+  "Description": "qui dolorem ipsum",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "15958008-774c-4693-bff6-6858d64fb9e8",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 05:50:40.602156",
+  "Price": "54.9900",
+  "Quantity": 4,
+  "PriceType": "Normalpris"
+}

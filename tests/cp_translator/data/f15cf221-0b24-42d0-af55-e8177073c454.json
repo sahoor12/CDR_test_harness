@@ -1,0 +1,13 @@
+{
+  "ProdKey": "DOWSC-5H",
+  "Description": "Nemo enim ipsam voluptatem",
+  "StoreCode": "308",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "f15cf221-0b24-42d0-af55-e8177073c454",
+  "expected_result": "QUARANTINED",
+  "EffectiveDate": "2018-10-19 00:50:40.602156",
+  "Price": "120.7500",
+  "Quantity": 9,
+  "PriceType": "Normalpris"
+}

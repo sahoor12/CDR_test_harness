@@ -1,0 +1,12 @@
+{
+  "ProdKey": "KTI73621",
+  "Description": "Nemo enim ipsam voluptatem",
+  "Market": "East",
+  "Comments": "Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse.",
+  "CompetitorProdKey": "04035d03-ae2e-4404-8f1f-66d557203a1c",
+  "expected_result": "REJECTED",
+  "EffectiveDate": "2018-10-24 13:20:40.602156",
+  "Price": "39.9900",
+  "Quantity": 9,
+  "PriceType": "Normalpris"
+}
